@@ -13,5 +13,5 @@ Lab assignments for Information Retrieval 1 (University of Amsterdam)
 
 
 **Discussion hours**
-* (Every Thursday 1100 to 1300)[Zoom link](https://uva-live.zoom.us/j/85646263849)
+* Every Thursday 1100 to 1300: [Zoom link](https://uva-live.zoom.us/j/85646263849)
 * Flipped classroom discussion pointers can be found [here](https://docs.google.com/document/d/1DiOKgxbOQl6-qhZKu2e1yIa_V315b1rx536NuP-9_Ss/edit)
