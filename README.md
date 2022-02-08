@@ -9,7 +9,7 @@ Lab assignments for Information Retrieval 1 (University of Amsterdam)
 * [Piazza](https://piazza.com/class/kyiksrdfk0b6te)
 
 **Lectures**
-1. [Introduction and Logistics](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_o71ih0q3/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+1. [Course organisation and Logistics](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_o71ih0q3/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 
 
 **Discussion hours**
