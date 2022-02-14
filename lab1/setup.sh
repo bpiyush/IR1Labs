@@ -8,5 +8,6 @@ conda create -y -n ir1-i386
 conda activate ir1-i386
 conda install python=3.6.5 --channel conda-forge
 pip install -r ./requirements.txt
+pip install jupyterlab ipdb tqdm
 
 echo "::: Setup complete."
