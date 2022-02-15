@@ -11,7 +11,8 @@ Lab assignments for Information Retrieval 1 (University of Amsterdam)
 **Lectures**
 1. [Course organisation and Logistics](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_o71ih0q3/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 2. [IR0 Recap](https://video-kaf.ic.uva.nl/playlist/dedicated/19773/0_q20cr8if/0_5uxeq17a)
-3. [Evaluation](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_xikmtr49/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+3. [Evaluation: Overview](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_xikmtr49/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+4. [Offline Evaluation](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_z5khilgg/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 
 
 **Discussion hours**
