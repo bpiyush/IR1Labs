@@ -13,6 +13,10 @@ Lab assignments for Information Retrieval 1 (University of Amsterdam)
 2. [IR0 Recap](https://video-kaf.ic.uva.nl/playlist/dedicated/19773/0_q20cr8if/0_5uxeq17a)
 3. [Evaluation: Overview](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_xikmtr49/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 4. [Offline Evaluation](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_z5khilgg/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+5. [Query processing](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_j5t3o01s/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+6. [Term-based Retrieval](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_vuqm7pti/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+7. [Semantic-based Retrieval](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_5l7kloue/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+8. [Neural models for ranking](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_c7jg8yzm/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 
 
 **Discussion hours**
