@@ -17,6 +17,7 @@ Lab assignments for Information Retrieval 1 (University of Amsterdam)
 6. [Term-based Retrieval](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_vuqm7pti/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 7. [Semantic-based Retrieval](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_5l7kloue/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 8. [Neural models for ranking](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_c7jg8yzm/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+9. [Learning to rank and Interactions](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_crd9ecux/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 
 
 **Discussion hours**
