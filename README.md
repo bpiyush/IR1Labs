@@ -18,6 +18,9 @@ Lab assignments for Information Retrieval 1 (University of Amsterdam)
 7. [Semantic-based Retrieval](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_5l7kloue/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 8. [Neural models for ranking](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_c7jg8yzm/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 9. [Learning to rank and Interactions](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_crd9ecux/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+10. [Offline LTR and Counterfactuals - 1](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_j5rlr50x/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+11. [Counterfactual learning to rank - 2](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_k3rjju41/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
+12. [Online learning to rank - 3](https://video-kaf.ic.uva.nl/browseandembed/index/media-redirect/entryid/0_a9zsaza6/showDescription/false/showTitle/false/showTags/false/showDuration/false/showOwner/false/showUploadDate/false/playerSize/576x360/playerSkin/23449936/thumbEmbed//autoPlay//startTime//endTime/)
 
 
 **Discussion hours**
