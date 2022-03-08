@@ -8,7 +8,7 @@ conda create -y -n ir1-lab2-i386
 conda activate ir1-lab2-i386
 conda install python=3.6.5 -y --channel conda-forge
 pip install -r ./requirements.txt
-pip install jupyterlab ipdb
+pip install jupyterlab ipdb ipywidgets
 
 echo "::: Setup complete."
 echo "::: To activate the environment, run:"
